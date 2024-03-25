@@ -44,7 +44,7 @@ public class User {
         return fullName;
     }
 
-    public void setFullname(String fullName) {
+    public void setFullName(String fullName) {
         this.fullName = fullName;
     }
 
